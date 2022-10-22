@@ -1,0 +1,81 @@
+﻿Build started 2022-04-10 오후 9:14:26.
+     1>Project "C:\Users\ehddj\OneDrive\바탕 화면\큐브추추가\Engine\Default\Engine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I../Public/ /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _WINDOWS /D _USRDLL /D ENGINE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt ..\Private\BlendObject.cpp ..\Private\Graphic_Device.cpp ..\Private\Picking.cpp ..\Private\SubTransform.cpp ..\Private\Timer.cpp ..\Private\Timer_Manager.cpp ..\Private\VIBuffer_Barricade2.cpp ..\Private\VIBuffer_Cone.cpp ..\Private\VIBuffer_Door.cpp ..\Private\VIBuffer_Drawer.cpp ..\Private\VIBuffer_Terrain.cpp ..\Private\VIBuffer_Tile.cpp ..\Private\VIBuffer_Tree.cpp ..\Private\VIBuffer_Wall.cpp ..\Private\VIBuffer_Window.cpp ..\Private\VIBuffer_XRect.cpp ..\private\Base.cpp ..\private\Camera.cpp ..\private\Component.cpp ..\private\Component_Manager.cpp ..\private\GameInstance.cpp ..\private\GameObject.cpp ..\private\Input_Device.cpp ..\private\Layer.cpp ..\private\Level.cpp ..\private\Level_Manager.cpp ..\private\Object_Manager.cpp ..\private\Renderer.cpp ..\private\Texture.cpp ..\private\Transform.cpp ..\private\VIBuffer.cpp ..\private\VIBuffer_Cube.cpp ..\private\VIBuffer_Rect.cpp
+         Object_Manager.cpp
+         Level_Manager.cpp
+         Input_Device.cpp
+         GameInstance.cpp
+         Component_Manager.cpp
+         Timer_Manager.cpp
+         Picking.cpp
+         Generating Code...
+         Compiling...
+         Graphic_Device.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         VIBuffer_Rect.cpp
+         VIBuffer_Cube.cpp
+         VIBuffer.cpp
+         Transform.cpp
+         Texture.cpp
+         Renderer.cpp
+         Level.cpp
+         Layer.cpp
+         GameObject.cpp
+         Component.cpp
+         Camera.cpp
+         Base.cpp
+         VIBuffer_XRect.cpp
+         VIBuffer_Window.cpp
+         VIBuffer_Wall.cpp
+         VIBuffer_Tree.cpp
+         VIBuffer_Tile.cpp
+         VIBuffer_Terrain.cpp
+         VIBuffer_Drawer.cpp
+         VIBuffer_Door.cpp
+         VIBuffer_Cone.cpp
+         VIBuffer_Barricade2.cpp
+         Timer.cpp
+         SubTransform.cpp
+         BlendObject.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\Bin\Engine.dll" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib dinput8.lib dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"..\Bin\Engine.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Bin\Engine.lib" /MACHINE:X64 /DLL x64\Debug\Base.obj
+         x64\Debug\BlendObject.obj
+         x64\Debug\Camera.obj
+         x64\Debug\Component.obj
+         x64\Debug\Component_Manager.obj
+         x64\Debug\GameInstance.obj
+         x64\Debug\GameObject.obj
+         x64\Debug\Graphic_Device.obj
+         x64\Debug\Input_Device.obj
+         x64\Debug\Layer.obj
+         x64\Debug\Level.obj
+         x64\Debug\Level_Manager.obj
+         x64\Debug\Object_Manager.obj
+         x64\Debug\Picking.obj
+         x64\Debug\Renderer.obj
+         x64\Debug\SubTransform.obj
+         x64\Debug\Texture.obj
+         x64\Debug\Timer.obj
+         x64\Debug\Timer_Manager.obj
+         x64\Debug\Transform.obj
+         x64\Debug\VIBuffer.obj
+         x64\Debug\VIBuffer_Barricade2.obj
+         x64\Debug\VIBuffer_Cone.obj
+         x64\Debug\VIBuffer_Cube.obj
+         x64\Debug\VIBuffer_Door.obj
+         x64\Debug\VIBuffer_Drawer.obj
+         x64\Debug\VIBuffer_Rect.obj
+         x64\Debug\VIBuffer_Terrain.obj
+         x64\Debug\VIBuffer_Tile.obj
+         x64\Debug\VIBuffer_Tree.obj
+         x64\Debug\VIBuffer_Wall.obj
+         x64\Debug\VIBuffer_Window.obj
+         x64\Debug\VIBuffer_XRect.obj
+         Engine.vcxproj -> C:\Users\ehddj\OneDrive\바탕 화면\큐브추추가\Engine\Default\..\Bin\Engine.dll
+     1>Done Building Project "C:\Users\ehddj\OneDrive\바탕 화면\큐브추추가\Engine\Default\Engine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.83

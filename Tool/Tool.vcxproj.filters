@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="99. Etc">
+      <UniqueIdentifier>{8806be31-367d-48f1-b8aa-511b259dbd88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Etc\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="99. Etc\소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="99. Etc\헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="00. MFCBase">
+      <UniqueIdentifier>{ade09ed9-5447-4dfc-a410-245d406f6c8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\00. MainFrm">
+      <UniqueIdentifier>{6389d517-d158-49e3-b29c-13ca1c73da64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\01. ToolView">
+      <UniqueIdentifier>{7e65851a-6f91-43e1-a104-c6abacdb2233}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\02. ToolDoc">
+      <UniqueIdentifier>{8dce52d2-7253-4b2f-b318-f7323eacd262}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98.Define">
+      <UniqueIdentifier>{b7739db7-0dfb-44c9-9f51-a08cd5c56455}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\01. ToolView\FormView">
+      <UniqueIdentifier>{d3ef0ae3-a5f2-4bb6-b03b-de21d6f55f79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject">
+      <UniqueIdentifier>{d4b2b4a4-a719-41ff-8d77-ca75ce9b8121}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Camera">
+      <UniqueIdentifier>{6b7264e4-616c-4ac2-b55f-88f4a75d64e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Terrain">
+      <UniqueIdentifier>{5a28c4e7-48e3-4d05-8b10-00081acbe223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene">
+      <UniqueIdentifier>{b5ca6115-2b20-4186-a174-e25202cd88db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\01. ToolView\FormView\TabDialog">
+      <UniqueIdentifier>{4ddcc65a-9e28-4937-99fe-113e488624f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\01. ToolView\FormView\TabDialog\Tab3">
+      <UniqueIdentifier>{4124eefa-4c8e-4033-a243-f248a3add15b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\01. ToolView\FormView\TabDialog\Tab2">
+      <UniqueIdentifier>{a8dca045-dc51-47ed-931b-45676edc7054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\01. ToolView\FormView\TabDialog\Tab1">
+      <UniqueIdentifier>{4d547591-964b-459e-aba5-c9f862cf4a22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Cube">
+      <UniqueIdentifier>{c8f201f5-f851-436c-85e1-db48251ad165}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Tile">
+      <UniqueIdentifier>{1e5c4128-6456-4de2-9797-7dcaf5743c8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Door">
+      <UniqueIdentifier>{3e363b79-aabe-48d8-8806-52f1750a848e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Tree">
+      <UniqueIdentifier>{f9f2f331-93e5-4a16-a908-5c9be3fb80e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Window">
+      <UniqueIdentifier>{7e6b574b-4f58-4e5f-ace4-5159bb6d183d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Wall">
+      <UniqueIdentifier>{59e7a5b0-418c-4b94-b563-b771a56f24e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Barricade2">
+      <UniqueIdentifier>{f63b0f11-0cdd-4f35-a1f6-6c718d617020}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Cone">
+      <UniqueIdentifier>{81e60467-e560-4520-a289-78f3387f92af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Drawer">
+      <UniqueIdentifier>{843ee30e-1f7b-49cd-8355-d3c4fb2129a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97.Manager">
+      <UniqueIdentifier>{3ce06adb-8ca8-4402-89ca-cb70ac654dd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97.Manager\KeyManager">
+      <UniqueIdentifier>{7e62f399-817c-47f1-80f5-f2a5e7b063f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.BlendObject">
+      <UniqueIdentifier>{92f68d83-a9e6-441f-bb9a-f8f1595bd6ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.BlendObject\XRect">
+      <UniqueIdentifier>{e72e4150-b05e-4adc-a290-91b306255d66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. MFCBase\01. ToolView\FormView\TabDialog\Tab4">
+      <UniqueIdentifier>{8477cc27-0452-407b-be4d-3bdd428e0f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Wood">
+      <UniqueIdentifier>{66f42d3f-7c7e-4c90-8c8b-24cd8467a0f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\GateCUbe">
+      <UniqueIdentifier>{6c32a4a5-137b-40ab-bb52-a2f8b2cf7888}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Gate">
+      <UniqueIdentifier>{b7f73583-9328-4a23-a30a-6d191fbcfe7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.BlendObject\Effect">
+      <UniqueIdentifier>{717ef247-9390-4f92-801c-8c5ae0e0c8c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.BlendObject\Effect\SoulFire">
+      <UniqueIdentifier>{bd159570-9114-4b22-94f6-f4c7fbe016d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\00.Zombie">
+      <UniqueIdentifier>{a7332dbc-ac48-4509-94a6-cc02e80d0239}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\00.Zombie\NormalZombie">
+      <UniqueIdentifier>{e1968f1f-050a-4c71-b379-6c69e0285c78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\00.Zombie\SpitterZombie">
+      <UniqueIdentifier>{39e2e667-2873-4699-957e-9a67ee07b41f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\00.Zombie\BlueSkeleton">
+      <UniqueIdentifier>{308fb87a-fa5a-4718-9039-ea655857a40a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\00.Zombie\GrandfaSkeleton">
+      <UniqueIdentifier>{803294ab-5a21-4dc7-b964-ffefcfd35d95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\00.Zombie\Fanatic">
+      <UniqueIdentifier>{7c101974-3f25-4b03-9ad5-60fb82332cea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\00.Zombie\Skeleton2">
+      <UniqueIdentifier>{5658e5d5-1188-498f-9e65-dbb391af46c2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tool.h">
+      <Filter>99. Etc\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>99. Etc\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99. Etc\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99. Etc\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>00. MFCBase\00. MainFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolView.h">
+      <Filter>00. MFCBase\01. ToolView</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolDoc.h">
+      <Filter>00. MFCBase\02. ToolDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_Define.h">
+      <Filter>98.Define</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera_Default.h">
+      <Filter>02.GameObject\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>02.GameObject\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>01.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab1.h">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog\Tab1</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab2.h">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog\Tab2</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab3.h">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog\Tab3</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuView.h">
+      <Filter>00. MFCBase\01. ToolView\FormView</Filter>
+    </ClInclude>
+    <ClInclude Include="TabDlg.h">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>97.Manager\KeyManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool_Object.h">
+      <Filter>98.Define</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>02.GameObject\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Door.h">
+      <Filter>02.GameObject\Door</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Cone.h">
+      <Filter>02.GameObject\Cone</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Barricade2.h">
+      <Filter>02.GameObject\Barricade2</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Drawer.h">
+      <Filter>02.GameObject\Drawer</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Wall.h">
+      <Filter>02.GameObject\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Window.h">
+      <Filter>02.GameObject\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Tree.h">
+      <Filter>02.GameObject\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeObject\Cube.h">
+      <Filter>02.GameObject\Cube</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab4.h">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog\Tab4</Filter>
+    </ClInclude>
+    <ClInclude Include="BlendObj\XRect.h">
+      <Filter>03.BlendObject\XRect</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Wood.h">
+      <Filter>02.GameObject\Wood</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\GateCube.h">
+      <Filter>02.GameObject\GateCUbe</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\NormalZombie.h">
+      <Filter>02.GameObject\00.Zombie\NormalZombie</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\ZombieSpitter.h">
+      <Filter>02.GameObject\00.Zombie\SpitterZombie</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\PurpleGate.h">
+      <Filter>02.GameObject\Gate</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\SoulFire.h">
+      <Filter>03.BlendObject\Effect\SoulFire</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\BlueSkeleton.h">
+      <Filter>02.GameObject\00.Zombie\BlueSkeleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\GrandfaSkeleton.h">
+      <Filter>02.GameObject\00.Zombie\GrandfaSkeleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Fanatic.h">
+      <Filter>02.GameObject\00.Zombie\Fanatic</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\Wither_Skeleton.h">
+      <Filter>02.GameObject\00.Zombie\Skeleton2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tool.cpp">
+      <Filter>99. Etc\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>99. Etc\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>00. MFCBase\00. MainFrm</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolView.cpp">
+      <Filter>00. MFCBase\01. ToolView</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolDoc.cpp">
+      <Filter>00. MFCBase\02. ToolDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera_Default.cpp">
+      <Filter>02.GameObject\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>02.GameObject\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>01.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab1.cpp">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog\Tab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab2.cpp">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog\Tab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab3.cpp">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog\Tab3</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuView.cpp">
+      <Filter>00. MFCBase\01. ToolView\FormView</Filter>
+    </ClCompile>
+    <ClCompile Include="TabDlg.cpp">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Cube.cpp">
+      <Filter>02.GameObject\Cube</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>97.Manager\KeyManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>02.GameObject\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>02.GameObject\Door</Filter>
+    </ClCompile>
+    <ClCompile Include="Cone.cpp">
+      <Filter>02.GameObject\Cone</Filter>
+    </ClCompile>
+    <ClCompile Include="Barricade2.cpp">
+      <Filter>02.GameObject\Barricade2</Filter>
+    </ClCompile>
+    <ClCompile Include="Drawer.cpp">
+      <Filter>02.GameObject\Drawer</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>02.GameObject\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>02.GameObject\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>02.GameObject\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab4.cpp">
+      <Filter>00. MFCBase\01. ToolView\FormView\TabDialog\Tab4</Filter>
+    </ClCompile>
+    <ClCompile Include="XRect.cpp">
+      <Filter>03.BlendObject\XRect</Filter>
+    </ClCompile>
+    <ClCompile Include="Wood.cpp">
+      <Filter>02.GameObject\Wood</Filter>
+    </ClCompile>
+    <ClCompile Include="GateCube.cpp">
+      <Filter>02.GameObject\GateCUbe</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalZombie.cpp">
+      <Filter>02.GameObject\00.Zombie\NormalZombie</Filter>
+    </ClCompile>
+    <ClCompile Include="ZombieSpitter.cpp">
+      <Filter>02.GameObject\00.Zombie\SpitterZombie</Filter>
+    </ClCompile>
+    <ClCompile Include="PurpleGate.cpp">
+      <Filter>02.GameObject\Gate</Filter>
+    </ClCompile>
+    <ClCompile Include="SoulFire.cpp">
+      <Filter>03.BlendObject\Effect\SoulFire</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueSkeleton.cpp">
+      <Filter>02.GameObject\00.Zombie\BlueSkeleton</Filter>
+    </ClCompile>
+    <ClCompile Include="GrandfaSkeleton.cpp">
+      <Filter>02.GameObject\00.Zombie\GrandfaSkeleton</Filter>
+    </ClCompile>
+    <ClCompile Include="Fanatic.cpp">
+      <Filter>02.GameObject\00.Zombie\Fanatic</Filter>
+    </ClCompile>
+    <ClCompile Include="Wirher_Skeleton.cpp">
+      <Filter>02.GameObject\00.Zombie\Skeleton2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool.rc">
+      <Filter>99. Etc\리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Tool.rc2">
+      <Filter>99. Etc\리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ToolDoc.ico">
+      <Filter>99. Etc\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Tool.ico">
+      <Filter>99. Etc\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>99. Etc\리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>99. Etc\리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
